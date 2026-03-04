@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 0bca640c0d75cae4c8f4322cc7bca829
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5330850567081214216
+    second: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_0"
+  - first:
+      213: 6792400285116981488
+    second: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_1"
+  - first:
+      213: -742107392364063314
+    second: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_2"
+  - first:
+      213: 6229379121860222343
+    second: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_3"
+  - first:
+      213: -7394294309085072712
+    second: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_4"
+  - first:
+      213: 1717409932471619924
+    second: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_5"
+  - first:
+      213: -115751554553895544
+    second: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_6"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1024
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_0"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 434
+        width: 148
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe3f6e37a30506b0800000000000000
+      internalID: -5330850567081214216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_1"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 435
+        width: 69
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0e8a65214734e50800000000000000
+      internalID: 6792400285116981488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_2"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 432
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5d2fc224183b5f0800000000000000
+      internalID: -742107392364063314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_3"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 435
+        width: 132
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d96b18e43337650800000000000000
+      internalID: 6229379121860222343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_4"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 432
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2ba46a080326990800000000000000
+      internalID: -7394294309085072712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_5"
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 433
+        width: 140
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451d2befb3775d710800000000000000
+      internalID: 1717409932471619924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_6"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 435
+        width: 138
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885ad9c0394c46ef0800000000000000
+      internalID: -115751554553895544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_0": -5330850567081214216
+      "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_1": 6792400285116981488
+      "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_2": -742107392364063314
+      "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_3": 6229379121860222343
+      "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_4": -7394294309085072712
+      "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_5": 1717409932471619924
+      "VICTORY_\u30E1\u30A4\u30F3\u7121\u3057_6": -115751554553895544
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

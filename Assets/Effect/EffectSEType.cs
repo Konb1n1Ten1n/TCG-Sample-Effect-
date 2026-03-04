@@ -1,0 +1,35 @@
+namespace DuelKingdom.Effect
+{
+    public enum EffectSEType
+    {
+        None = 0,
+        Slash = 1,
+        SlashHeavy = 2,
+        Chain = 3,
+        Dark = 4,
+        CinematicBuoon = 16,
+        Bubble = 5,
+        Angel_Faa = 6,
+        Gold = 7,
+        Mist = 8,
+        Shine = 9,
+        Cross = 10,
+        Burst = 11,
+        HardPunch = 17,
+        MotionAgility = 18,
+        Meramera = 19,
+        Basi = 20,
+        AbstractShine = 12,
+        SingleMotionSwish = 22,
+        Angel = 21,
+        Bird = 23,
+        Selection = 13,
+        FadeIn = 14,
+        FadeOut = 15,
+        Byun = 24,
+        Whoosh = 25,
+        AiryWhoosh = 26,
+        PianoPercussion = 27,
+        PianoResonance = 28,
+    }
+}

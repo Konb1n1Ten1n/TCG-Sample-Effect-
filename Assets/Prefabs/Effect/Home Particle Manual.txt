@@ -1,0 +1,19 @@
+HomeParticle
+ホーム画面の背景で使う火の粉が舞うようなエフェクト
+
+使用するときの設定
+Global Light
+> Intencity = 1
+
+Global Volume
+> profile = Home Volume Profile
+> Weight = 1
+
+速度を調整したいとき
+Start Speedの右側の値を増減させる
+
+量を調整したいとき
+Emission > Rate over Timeを増減させる
+
+パーティクルを出現させる領域を調整したいとき
+Shape > Scale > xを増減させる

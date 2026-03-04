@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShaderVariants
+  m_Shaders:
+  - first: {fileID: -6465566751694194690, guid: c09292207bbf6bb478833f2d97c6edf9, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: e601d7de0d274c9428ecaed8f2d2ecc6, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 63a7453120b885d45ad30db43e4f39ef, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 98c37738505951e49a6b081f0fa5465f, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 0b8bbfc3fe3cdd44db5f39f271d6a7df, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 86e0f4265ad06524aa921ebfdf3dd7de, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 693895f2e81cfec42bdcc683885990da, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 3a82c93b190dae74887a37a1e62da447, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 6f83ae58371f1344abf6c124a79accfb, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: d2825c6eada711b40a6d76b594a0cb32, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 00319183f74b0dc4ebce570ba0a639a2, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 1246fd2a53b696c47a71087adad4242c, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: a887ac1618da69a46ae47e20375bc37a, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: a2bd85a65de3c73479c0e8bd4c838a15, type: 3}
+    second:
+      variants: []
+  - first: {fileID: 4800000, guid: 559c26a252706f64c8c6bdd7a7266d75, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: ba23de51d4cd65b43b6e707816e07dc8, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: c07417ecb6763854ca0061d92b4cad50, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 6dc86d3c541494f4ab0af2dfc1448003, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 16f4031351f82cc4d8102f4ed1a1b7ad, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 29b68c33ad55a6e43a9ff77279efa3b8, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 98443ab449b45e34d98209aa7194cc58, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 5474b29c520d4d340918598cc1175ca9, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: ea051cf29fb51b541a7627344cb451cf, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 30f1ca13bc015e3448c354a3c4b6efd0, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 199588443bc7a7b468cb14f0b3ab337a, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 789ca48098b0afa40b65e60a39d44b6e, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: a56c976c0c1ffce44b6d6b209a404794, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 4a8c877c29a1d6f46aa3cd0902bf5668, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 96e2d942ecd9a34488c5c73896de687a, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: c20f382126f1ae44ba42af9ecc93c912, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: cb8efecfe0c1f804389a0fecad1fc3a5, type: 3}
+    second:
+      variants: []
